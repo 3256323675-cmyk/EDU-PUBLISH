@@ -1,0 +1,47 @@
+{
+  "site_name": "EDU Publish",
+  "site_short_name": "EDU Publish",
+  "site_description": "高校通知聚合站",
+  "site_url": "https://example.edu.cn",
+  "default_locale": "zh-CN",
+  "organization_name": "示例大学",
+  "organization_type": "university",
+  "organization_unit_label": "单位",
+  "logo_light": "/icon.svg",
+  "logo_dark": "/icon.svg",
+  "favicon": "/icon.svg",
+  "default_cover": "/img/default-cover.svg",
+  "footer": {
+    "copyright": "© 2025 示例大学",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/your-org/edu-publish"
+      },
+      {
+        "label": "反馈",
+        "url": "https://github.com/your-org/edu-publish/issues"
+      }
+    ]
+  },
+  "seo": {
+    "title_template": "{page} - {site_name}",
+    "default_keywords": [
+      "高校通知",
+      "校园信息"
+    ]
+  },
+  "github_actions_enabled": false,
+  "palette": {
+    "preset": "blue",
+    "primary": null,
+    "secondary": null,
+    "accent": null
+  },
+  "_computed": {
+    "theme_color_hex": "#2563eb",
+    "primary_hsl": "221 83% 53%",
+    "primary_dark_hsl": "217 91% 60%",
+    "default_hue": 221
+  }
+}

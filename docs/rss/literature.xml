@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>文学院 - EDU Publish</title>
+    <link>https://example.edu.cn/school/literature</link>
+    <description>文学院 通知聚合 RSS 订阅</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 04:25:01 GMT</lastBuildDate>
+    <atom:link href="https://example.edu.cn/rss/literature.xml" rel="self" type="application/rss+xml" />
+    <item><title>校园文化节系列活动预告</title><link>https://example.edu.cn/school/literature#20251120-demo-with-cover-001</link><guid isPermaLink="false">20251120-demo-with-cover-001</guid><pubDate>Thu, 20 Nov 2025 02:00:00 GMT</pubDate><description>一年一度的校园文化节即将开幕，精彩活动等你参与。</description><category>文学院</category><category>活动通知</category></item>
+<item><title>2027年暑期学术夏令营预报名</title><link>https://example.edu.cn/school/literature#20251120-demo-time-upcoming-001</link><guid isPermaLink="false">20251120-demo-time-upcoming-001</guid><pubDate>Thu, 20 Nov 2025 02:00:00 GMT</pubDate><description>2027年暑期学术夏令营将于明年开放报名。</description><category>文学院</category><category>报名事项</category></item>
+<item><title>暑期社会实践材料提交要求</title><link>https://example.edu.cn/school/literature#20251110-demo-multi-attach-001</link><guid isPermaLink="false">20251110-demo-multi-attach-001</guid><pubDate>Mon, 10 Nov 2025 01:00:00 GMT</pubDate><description>请参加暑期社会实践的同学按要求提交相关材料。</description><category>文学院</category><category>材料提交</category><category>志愿服务</category><enclosure url="https://example.edu.cn/attachments/demo/学生信息采集表模板.pdf" type="application/pdf" length="0" /></item>
+<item><title>志愿者招募：社区义务辅导</title><link>https://example.edu.cn/school/literature#20251103-demo-category-tag-001</link><guid isPermaLink="false">20251103-demo-category-tag-001</guid><pubDate>Mon, 03 Nov 2025 06:00:00 GMT</pubDate><description>招募志愿者参与周末社区义务辅导活动。</description><category>文学院</category><category>志愿服务</category><category>报名事项</category></item>
+  </channel>
+</rss>

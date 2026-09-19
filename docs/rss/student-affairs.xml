@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学生事务中心 - EDU Publish</title>
+    <link>https://example.edu.cn/school/student-affairs</link>
+    <description>学生事务中心 通知聚合 RSS 订阅</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 19 Sep 2026 04:25:01 GMT</lastBuildDate>
+    <atom:link href="https://example.edu.cn/rss/student-affairs.xml" rel="self" type="application/rss+xml" />
+    <item><title>值班表</title><link>https://example.edu.cn/school/student-affairs#20251127-demo-short-title-001</link><guid isPermaLink="false">20251127-demo-short-title-001</guid><pubDate>Thu, 27 Nov 2025 06:00:00 GMT</pubDate><description>本周值班安排已更新，请相关同学查阅。</description><category>学生事务中心</category><category>值班安排</category></item>
+<item><title>紧急通知：明日停课</title><link>https://example.edu.cn/school/student-affairs#20251124-demo-short-desc-001</link><guid isPermaLink="false">20251124-demo-short-desc-001</guid><pubDate>Mon, 24 Nov 2025 12:00:00 GMT</pubDate><description>因天气原因停课一天。</description><category>学生事务中心</category><category>截止提醒</category></item>
+<item><title>关于填报学生信息采集表的通知</title><link>https://example.edu.cn/school/student-affairs#20251112-demo-single-attach-001</link><guid isPermaLink="false">20251112-demo-single-attach-001</guid><pubDate>Wed, 12 Nov 2025 02:00:00 GMT</pubDate><description>请各班级组织学生填写信息采集表并按时提交。</description><category>学生事务中心</category><category>材料提交</category><enclosure url="https://example.edu.cn/attachments/demo/学生信息采集表模板.pdf" type="application/pdf" length="0" /></item>
+<item><title>在线问卷：教学满意度调查</title><link>https://example.edu.cn/school/student-affairs#20251108-demo-external-link-001</link><guid isPermaLink="false">20251108-demo-external-link-001</guid><pubDate>Sat, 08 Nov 2025 00:00:00 GMT</pubDate><description>请全体学生参与本学期教学满意度在线</description><category>学生事务中心</category><category>教务安排</category></item>
+<item><title>关于开展冬季安全教育系列活动的通知</title><link>https://example.edu.cn/school/student-affairs#20251105-demo-multi-tag-001</link><guid isPermaLink="false">20251105-demo-multi-tag-001</guid><pubDate>Wed, 05 Nov 2025 02:00:00 GMT</pubDate><description>为做好冬季校园安全工作，现组织开展安全教育系列活动。</description><category>学生事务中心</category><category>安全排查</category><category>活动通知</category><category>心理健康</category><category>团学工作</category></item>
+<item><title>【置顶】本学期重要时间节点汇总</title><link>https://example.edu.cn/school/student-affairs#20250901-demo-pinned-001</link><guid isPermaLink="false">20250901-demo-pinned-001</guid><pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate><description>汇总本学期各项重要事务的截止时间，请务必关注。</description><category>学生事务中心</category><category>截止提醒</category><category>教务安排</category></item>
+<item><title>2024年度奖学金申报（已截止）</title><link>https://example.edu.cn/school/student-affairs#20240101-demo-time-expired-001</link><guid isPermaLink="false">20240101-demo-time-expired-001</guid><pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate><description>2024年度奖学金申报工作已</description><category>学生事务中心</category><category>奖助评定</category><category>截止提醒</category></item>
+  </channel>
+</rss>

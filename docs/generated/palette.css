@@ -1,0 +1,17 @@
+:root {
+  --primary: 221 83% 53%;
+  --primary-foreground: 210 40% 98%;
+  --secondary: 210 40% 96%;
+  --secondary-foreground: 222 47% 11%;
+  --accent: 210 40% 96%;
+  --accent-foreground: 222 47% 11%;
+}
+
+.dark {
+  --primary: 217 91% 60%;
+  --primary-foreground: 222 47% 11%;
+  --secondary: 217 10% 18%;
+  --secondary-foreground: 210 40% 92%;
+  --accent: 217 10% 18%;
+  --accent-foreground: 210 40% 92%;
+}
