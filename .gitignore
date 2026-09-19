@@ -89,3 +89,6 @@ temp/
 coverage
 .nyc_output
 wrangler.toml
+.vercel
+.github/workflows/
+.github/workflows/
