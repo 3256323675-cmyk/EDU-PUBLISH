@@ -17,16 +17,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
+      - name: Setup Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: 'pnpm'
-
-      - name: Install pnpm (Fallback)
+          # 暂时去掉 cache: 'pnpm'，等跑通后再加回来提速
+          
+      - name: Enable Corepack (Install pnpm)
         run: |
-          npm install -g pnpm@9
-          echo "$(npm bin -g)" >> $GITHUB_PATH
+          corepack enable
+          corepack prepare pnpm@9 --activate
+          pnpm --version
 
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
