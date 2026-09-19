@@ -21,13 +21,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          # 暂时去掉 cache: 'pnpm'，等跑通后再加回来提速
-          
-      - name: Enable Corepack (Install pnpm)
-        run: |
-          corepack enable
-          corepack prepare pnpm@9 --activate
-          pnpm --version
+
+      - name: Install pnpm globally
+        run: npm install -g pnpm@9
 
       - name: Install dependencies
         run: pnpm install --no-frozen-lockfile
